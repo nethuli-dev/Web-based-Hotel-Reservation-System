@@ -84,4 +84,10 @@ Built as a team project by PG122.
 
 ## License
 
-Add a license of your choice (e.g. MIT) if you intend to make this repository public.
+# Add a license of your choice (e.g. MIT) if you intend to make this repository public.
+
+# Web-based-Hotel-Reservation-System
+
+Full-stack hotel reservation and management system built with Spring Boot — booking, payments, admin dashboard.
+
+> > > > > > > ff660aac4fe31e61edc529839fc685188f69b452
