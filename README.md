@@ -84,7 +84,7 @@ Built as a team project by PG122.
 
 ## License
 
-# Add a license of your choice (e.g. MIT) if you intend to make this repository public.
+MIT License
 
 # Web-based-Hotel-Reservation-System
 
